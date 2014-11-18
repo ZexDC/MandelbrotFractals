@@ -1,0 +1,28 @@
+C:\Users\Zex\Desktop\test\fractals\fractals\bin\Debug\fractals.exe
+C:\Users\Zex\Desktop\test\fractals\fractals\bin\Debug\fractals.pdb
+C:\Users\Zex\Desktop\test\fractals\fractals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zex\Desktop\test\fractals\fractals\obj\x86\Debug\fractals.Form1.resources
+C:\Users\Zex\Desktop\test\fractals\fractals\obj\x86\Debug\fractals.Properties.Resources.resources
+C:\Users\Zex\Desktop\test\fractals\fractals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zex\Desktop\test\fractals\fractals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zex\Desktop\test\fractals\fractals\obj\x86\Debug\fractals.exe
+C:\Users\Zex\Desktop\test\fractals\fractals\obj\x86\Debug\fractals.pdb
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\obj\x86\Debug\fractals.exe
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\obj\x86\Debug\fractals.pdb
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\bin\Debug\fractals.exe
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\bin\Debug\fractals.pdb
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\obj\x86\Debug\fractals.Form1.resources
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\obj\x86\Debug\fractals.Properties.Resources.resources
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zex\Desktop\test\fractals che funzia\fractals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zex\Desktop\fractals che funzia\fractals\obj\x86\Debug\fractals.exe
+C:\Users\Zex\Desktop\fractals che funzia\fractals\obj\x86\Debug\fractals.pdb
+C:\Users\Zex\Google Drive\Scuola ITIS\Tesina 2012\fractals che funzia\fractals\obj\x86\Debug\fractals.exe
+C:\Users\Zex\Google Drive\Scuola ITIS\Tesina 2012\fractals che funzia\fractals\obj\x86\Debug\fractals.pdb
+C:\Users\Zex\Google Drive\Scuola ITIS\Tesina 2012\fractals che funzia\fractals\bin\Debug\fractals.exe
+C:\Users\Zex\Google Drive\Scuola ITIS\Tesina 2012\fractals che funzia\fractals\bin\Debug\fractals.pdb
+C:\Users\Zex\Google Drive\Scuola ITIS\Tesina 2012\fractals che funzia\fractals\obj\x86\Debug\fractals.csprojResolveAssemblyReference.cache
+C:\Users\Zex\Google Drive\Scuola ITIS\Tesina 2012\fractals che funzia\fractals\obj\x86\Debug\fractals.Form1.resources
+C:\Users\Zex\Google Drive\Scuola ITIS\Tesina 2012\fractals che funzia\fractals\obj\x86\Debug\fractals.Properties.Resources.resources
+C:\Users\Zex\Google Drive\Scuola ITIS\Tesina 2012\fractals che funzia\fractals\obj\x86\Debug\fractals.csproj.GenerateResource.Cache
